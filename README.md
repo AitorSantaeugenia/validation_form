@@ -7,3 +7,5 @@ Simple validation form using Javascript with a few data (HTML not added).
 
 What's next?, save the data (maybe using localstorage property). Check it! -><br>
 https://github.com/AitorSantaeugenia/save_data_from_a_form_using_localstorage
+
+CC BY-NC-SA
